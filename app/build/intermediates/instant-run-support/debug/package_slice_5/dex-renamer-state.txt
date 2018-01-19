@@ -1,0 +1,4 @@
+#Fri Jan 19 15:24:08 WIB 2018
+base.0=/home/orionstark/Documents/minutes-final/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Mobile\\minutes-duplicate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "/home/orionstark/Documents/minutes-final/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\935a715816403937fbba915e0b18dbf8\\res\\values-land\\values-land.xml",
+                    "source": "/home/orionstark/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5352c204ce1aaf705a8dc04291113e50/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\8ed223e00a837d7cf6d7489a3c332baf\\res\\values-land\\values-land.xml",
+                    "source": "/home/orionstark/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/75606c996df84803ad27ad9ae43b3e11/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -35,10 +35,10 @@
             ]
         },
         {
-            "outputFile": "D:\\home\\evan\\Documents\\Mobile\\minutes-duplicate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "/home/orionstark/Documents/minutes-final/D:\\Mobile\\minutes-duplicate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "D:\\home\\evan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6c63dce8be5d4a3c2a1b5934b456cdd9\\res\\values-land\\values-land.xml",
+                    "source": "/home/orionstark/Documents/minutes-final/C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\935a715816403937fbba915e0b18dbf8\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -48,7 +48,41 @@
                     }
                 },
                 {
-                    "source": "D:\\home\\evan\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\822838b2a23140ac95d9e22d5ed905f2\\res\\values-land\\values-land.xml",
+                    "source": "/home/orionstark/Documents/minutes-final/C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\8ed223e00a837d7cf6d7489a3c332baf\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/orionstark/Documents/minutes-final/D:\\home\\evan\\Documents\\Mobile\\minutes-duplicate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "/home/orionstark/Documents/minutes-final/D:\\home\\evan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6c63dce8be5d4a3c2a1b5934b456cdd9\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/orionstark/Documents/minutes-final/D:\\home\\evan\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\822838b2a23140ac95d9e22d5ed905f2\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Fri Jan 19 15:23:33 WIB 2018
+1.base=/home/orionstark/Documents/minutes-final/app/build/intermediates/assets/debug
+2.path=Font_Pack/Poppins-Medium.ttf
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=/home/orionstark/Documents/minutes-final/app/build/intermediates/assets/debug
+3.set=ASSET
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=Font_Pack/Dosis-Regular.ttf
+count=4
+1.set=ASSET
+0.path=Font_Pack/NovaFlat.ttf
+3.base=/home/orionstark/Documents/minutes-final/app/build/intermediates/assets/debug
+0.set=ASSET
+0.base=/home/orionstark/Documents/minutes-final/app/build/intermediates/assets/debug
+2.baseType=DIRECTORY
+1.path=Font_Pack/BreeSerif-Regular.ttf
